@@ -46,7 +46,7 @@ edad = 'Eduardo'
 print(name)
 print(edad)
 
-address: str = 'Mi direccion'
-address: int = 23
+address = 'Mi direccion'
+address = 23
 
 print(type(address))
